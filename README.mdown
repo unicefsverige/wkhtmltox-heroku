@@ -4,6 +4,8 @@ Provides a [wkhtmltopdf](http://wkhtmltopdf.org/) binary for [Heroku](http://www
 
 Preconfigures [pdfkit](https://rubygems.org/gems/pdfkit), [wicked_pdf](https://rubygems.org/gems/wicked_pdf), and [wisepdf](http://rubygems.org/gems/wisepdf) to use this binary if they are loaded.
 
+**💐 This fork includes the binary for `wkhtmltoimage`**
+
 ## Installation
 
 In your `Gemfile`:
